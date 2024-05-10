@@ -32,3 +32,24 @@
     width: 200px;
     height: 200px;
 }
+
+.img1{
+    width: 100vw;
+    height: 800px;
+}
+
+.img2{
+    width: 100vw;
+    height: 800px;
+}
+
+.img3{
+    width: 90vw;
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
